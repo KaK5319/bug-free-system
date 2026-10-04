@@ -1,1 +1,11 @@
-
+{
+  "expo": {
+    "name": "SideBooks",
+    "slug": "sidebooks",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": { "package": "com.sidebooks.app" },
+    "plugins": ["expo-image-picker"]
+  }
+}
